@@ -58,8 +58,6 @@ The results files include:
 (2) The measured size of abnormally grains. The file name is: <image name>_ abnormal.result.xlsx.
 (3) The result image (file name is: <image name>_.result.jpg or .png file), in which normally recognized grains are indicated with red rectangles, abnormally recognized grains are indicated with green rectangles. The rule(s) are indicated with blue rectangle(s), and the numbers in white color indicates the grain ID.
  
- ![image](https://user-images.githubusercontent.com/25548784/198819925-009fc11c-48ac-4d12-a840-7beeabb37f06.png)
-
 # 3 Detailed descriptions
 ## 3.1 How to obtain a high-quality grain image?
  
