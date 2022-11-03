@@ -54,10 +54,15 @@ By dragging the “Zoom” button, users can zoom the image to view the detailed
 ## 2.6 Result files
 The resulting files are automatically saved in the same file of input images. Users can also see the result directory information from the “Info” region, which is indicated with “All results have been saved to directory: (directory name)”. 
 The results files include:
+
 (1) The measured size of normally grains. The file name is: <image name>_ normal.result.xlsx.
+ 
 (2) The measured size of abnormally grains. The file name is: <image name>_ abnormal.result.xlsx.
+ 
 (3) The result image (file name is: <image name>_.result.jpg or .png file), in which normally recognized grains are indicated with red rectangles, abnormally recognized grains are indicated with green rectangles. The rule(s) are indicated with blue rectangle(s), and the numbers in white color indicates the grain ID.
  
+ ![image](https://user-images.githubusercontent.com/25548784/199631802-95bfe541-65e4-4284-827d-2efb11445073.png)
+
 # 3 Detailed descriptions
 ## 3.1 How to obtain a high-quality grain image?
  
