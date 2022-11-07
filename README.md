@@ -3,7 +3,7 @@ GrainPheno is an image analysis-based tool for counting and measuring grain size
 
 # 1 Installation
 ## (1) Install on personal computer with Windows system
-Download the latest released verison of GrainPheno from the GitHub website (https://github.com/xiexr/GrainPheno/releases/tag/PhenoGrain) and test files. Decompress the soft file to the local disk, for example D:\ or others, and the path should not contain special characters. Enter the directory of GrainPheno, and double click the “GrainPheno.exe” to run the program. 
+Download the latest released verison of GrainPheno from the GitHub website (https://github.com/xiexr/GrainPheno/releases/tag/PhenoGrain) and test Images. Decompress the soft file to the local disk, for example D:\ or others, and the path should not contain special characters. Enter the directory of GrainPheno, and double click the “GrainPheno.exe” to run the program. 
 
 GrainPheno provides test files in the GitHub. According to the instruction to input the test files and run the program for testing whether the installation is successful.
 ## (2) WeChat applet
