@@ -1,5 +1,6 @@
 # GrainPheno
-Download the latest released verison of GrainPheno (GrainPheno_beta_1.0.zip) from the link (https://github.com/xiexr/GrainPheno/releases/tag/PhenoGrain)
+Download the latest released verison of GrainPheno (GrainPheno_beta_1.0.zip) from the link (https://github.com/xiexr/GrainPheno/releases/tag/PhenoGrain).
+
 GrainPheno is an image analysis-based tool for counting and measuring grain size. GrainPheno provides a standalone version for running on personal computers of windows systems, and a WeChat based applet for analyzing gain images on smartphones. Thus, grain images acquired from scanners and mobile imaging devices are supported to be analyzed by GrainPheno. 
 
 # 1 Installation
